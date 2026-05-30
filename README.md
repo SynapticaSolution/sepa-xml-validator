@@ -159,10 +159,14 @@ Banks reject entire SEPA XML files if even one transaction has an error. A singl
 
 ## Related Resources
 
-- [What is a SEPA XML file?](https://synaptica-solution.com/knowledge/cos-e-bonifico-sepa-xml/) - Guide to SEPA XML ISO 20022 format
-- [How to import payment batches in your bank](https://synaptica-solution.com/knowledge/come-importare-distinta-bonifico-in-banca/) - Step-by-step for Italian banks
-- [SEPA Manager](https://synaptica-solution.com/sepa-manager/) - Automate SEPA file generation from invoices
-- [Best SEPA payment software 2026](https://synaptica-solution.com/knowledge/migliori-software-bonifici-sepa/) - Comparison guide
+Maintained by **[Synaptica Solution](https://synaptica-solution.com)**, Italian software studio for SME automation.
+
+| If you need… | See… |
+|---|---|
+| Automated SEPA file generation from invoices | [SEPA Manager](https://synaptica-solution.com/sepa-manager/) |
+| SEPA XML pain.001 guide (Italian banks) | [Come generare XML SEPA CBI](https://synaptica-solution.com/knowledge/come-generare-xml-sepa-cbi/) |
+| Upload SEPA file to Italian home banking | [Come importare distinta bonifico](https://synaptica-solution.com/knowledge/come-importare-distinta-bonifico-in-banca/) |
+| All open source tools | [Open Source Hub](https://synaptica-solution.com/open-source/) |
 
 ## License
 
